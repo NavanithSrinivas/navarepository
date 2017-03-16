@@ -5,4 +5,4 @@ Clinch yoUr Place project url - https://github.com/NavanithSrinivas/ClinchyoUrPl
 Mouse Touch - https://github.com/NavanithSrinivas/mousetouch.git
 
 
-Startup Companies Analysis - 
+Startup Companies Analysis - https://github.com/NavanithSrinivas/startupdata_analysis.git 
