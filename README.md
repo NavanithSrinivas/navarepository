@@ -1,8 +1,8 @@
 # navarepository
-Clinch yoUr Place project url - https://github.com/NavanithSrinivas/ClinchyoUrPlace.git
+Clinch yoUr Place Website - https://github.com/NavanithSrinivas/ClinchyoUrPlace.git
 
 
-Mouse Touch - https://github.com/NavanithSrinivas/mousetouch.git
+Mouse Touch Android app - https://github.com/NavanithSrinivas/mousetouch.git
 
 
-Startup Companies Analysis - https://github.com/NavanithSrinivas/startupdata_analysis.git 
+Startup Companies Analysis Java Web application - https://github.com/NavanithSrinivas/startupdata_analysis.git 
